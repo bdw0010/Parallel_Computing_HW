@@ -1,0 +1,1 @@
+void square_dgemm0(int n, double *A, double *B, double *C);
